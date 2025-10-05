@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ping测试", "ping测试\ping测试.csproj", "{06B5A888-4268-46C6-90C1-9459AAF1E78A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06B5A888-4268-46C6-90C1-9459AAF1E78A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06B5A888-4268-46C6-90C1-9459AAF1E78A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06B5A888-4268-46C6-90C1-9459AAF1E78A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06B5A888-4268-46C6-90C1-9459AAF1E78A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+E:\我爱C#\c#learning\c#自编\ping测试\ping测试\obj\Debug\ResolveAssemblyReference.cache
+E:\我爱C#\c#learning\c#自编\ping测试\ping测试\obj\Debug\ping测试.Form1.resources
+E:\我爱C#\c#learning\c#自编\ping测试\ping测试\obj\Debug\ping测试.Properties.Resources.resources
+E:\我爱C#\c#learning\c#自编\ping测试\ping测试\obj\Debug\ping测试.csproj.GenerateResource.Cache
+E:\我爱C#\c#learning\c#自编\ping测试\ping测试\bin\Debug\ping测试.exe
+E:\我爱C#\c#learning\c#自编\ping测试\ping测试\bin\Debug\ping测试.pdb
+E:\我爱C#\c#learning\c#自编\ping测试\ping测试\obj\Debug\ping测试.exe
+E:\我爱C#\c#learning\c#自编\ping测试\ping测试\obj\Debug\ping测试.pdb
+D:\我爱C#\c#learning\c#自编\ping测试\ping测试\obj\Debug\ping测试.exe
+D:\我爱C#\c#learning\c#自编\ping测试\ping测试\obj\Debug\ping测试.pdb
+D:\我爱C#\c#learning\c#自编\ping测试\ping测试\bin\Debug\ping测试.exe
+D:\我爱C#\c#learning\c#自编\ping测试\ping测试\bin\Debug\ping测试.pdb
+D:\我爱C#\c#learning\c#自编\ping测试\ping测试\obj\Debug\ping测试.Form1.resources
+D:\我爱C#\c#learning\c#自编\ping测试\ping测试\obj\Debug\ping测试.Properties.Resources.resources
+D:\我爱C#\c#learning\c#自编\ping测试\ping测试\obj\Debug\ping测试.csproj.GenerateResource.Cache
+D:\我爱C#\c#learning\c#自编\ping测试\ping测试\obj\Debug\ping测试.Form2.resources
+D:\我爱C#\c#learning\c#自编\ping测试\ping测试\obj\Debug\ping测试.csprojResolveAssemblyReference.cache
